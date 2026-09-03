@@ -82,7 +82,7 @@ Username: scmesh
 
 Password: Meshtastical (M is capitalized)
 
-TLS: ON (This needs to be turned on to communicate with out server properly)
+TLS: OFF (the server should pass TLS or non TLS traffic. leave off for consistency) 
 
 
 ## Contact
